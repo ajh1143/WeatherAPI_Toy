@@ -1,2 +1,2 @@
 # WeatherAPI_Toy
-Making it rain
+Making it rain with the OpenWeatherMap API
